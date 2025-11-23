@@ -41,10 +41,10 @@ I love working on:
 - Open-source Security Projects  
 
 📩 **Contact Me**  
-LinkedIn – your link
-Twitter – your link
-Instagram – your link
-Gmail – your mail
+LinkedIn – https://www.linkedin.com/in/ishant-kumar-96b538326/
+Twitter – https://x.com/IshantKuma63
+Instagram – https://www.instagram.com/hackwithishant/
+Gmail – hackwithishant@gmail.com
 
 
 🎯 **Goal:** Mastering penetration testing & becoming one of India’s top cybersecurity professionals.
