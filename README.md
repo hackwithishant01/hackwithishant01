@@ -1,97 +1,115 @@
-<!-- Header Section -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00E7FF;">Ishant</span></h1>
-<h3 align="center">Cybersecurity Enthusiast • Future Penetration Tester • Full-Stack Developer</h3>
+<!-- HEADER -->
+<h1 align="center">👋 Hola, I'm <span style="color:#00E7FF;">Ishant</span></h1>
+<h3 align="center">🛡 Cybersecurity Enthusiast • Penetration Tester (in-making) • Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300E7FF&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;Penetration+Testing+Enthusiast;Mentor+%7C+Teacher+%7C+Project+Manager;Full+Stack+Developer;Always+Learning+New+Skills">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300E7FF&size=23&center=true&vCenter=true&width=650&lines=Cybersecurity+Learner;Future+Penetration+Tester;Mentor+%7C+Trainer+%7C+Project+Manager;Full+Stack+Developer;Always+Learning+%26+Building;India's+Future+Cyber+Force+🚀">
 </p>
 
 ---
 
-## 🔹 Startup / Work  
-I am part of **Cyber Squad 6351**, a cybersecurity-driven community & startup initiative.  
-I actively work as:
-
-- **Mentor**  
-- **Teacher / Trainer**  
-- **Project Manager**
-
-I guide learners, create training modules, and manage cybersecurity-focused projects in the community.
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Expertise-00E7FF?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pentesting-Focused-blue?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-JS-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
-## 🔹 About Me  
-I’m an aspiring cybersecurity professional focused on mastering penetration testing, strengthening my technical expertise, and contributing to a more secure digital future for India.
+## 🔥 **Startup / Work**
+🚀 I’m part of **Cyber Squad 6351**, a cybersecurity-driven community & startup initiative.  
+Here, I work as:
 
-I enjoy exploring:
+- 🧑‍🏫 **Mentor**  
+- 👨‍💻 **Cybersecurity Trainer**  
+- 🧩 **Project Manager**
 
-- Ethical Hacking & Security Fundamentals  
-- Computer Networks  
-- System & Web Application Security  
-- Hands-on Labs, CTFs & Hackathons  
+I guide students, design training content, and help build cyber projects that make learning fun & professional.
+
+---
+
+## 👨‍💻 **About Me**
+I’m an aspiring cybersecurity expert preparing to become a **penetration tester** and contribute to India’s cyber defense.
+
+I love working on:
+
+- Ethical Hacking & Security  
+- Network & Web Security  
+- CTFs, Hackathons & Real-World Labs  
 - Programming & Full-Stack Development  
+- Open-source Security Projects  
 
-🎯 **Objective:** To master penetration testing and cybersecurity by continuously learning, practicing, and applying real-world skills.
+📩 **Contact Me**  
+LinkedIn – your link
+Twitter – your link
+Instagram – your link
+Gmail – your mail
+
+
+🎯 **Goal:** Mastering penetration testing & becoming one of India’s top cybersecurity professionals.
 
 ---
 
-## 🔹 Skills & Technologies  
+## ⚡ **Skills & Tech Stack**
 
-### 🧠 Programming & Coding Languages  
+### 🧠 **Programming & Coding**
 | Category | Technologies |
 |---------|--------------|
-| **Frontend Dev** | HTML, CSS, JavaScript, React.js |
-| **Backend Dev** | Node.js |
-| **Databases** | SQL, MySQL |
-| **General Coding** | C, C++, Python, Bash/Shell |
-| **Tools** | Git, VS Code, Postman |
+| 🎨 Frontend | HTML, CSS, JavaScript, React.js |
+| 🔧 Backend | Node.js |
+| 🛢 Database | SQL, MySQL |
+| 💻 Languages | C, C++, Python, Bash |
+| ⚙️ Tools | Git, VS Code, Postman |
 
 ---
 
-### 🛡️ Cybersecurity Tools & Platforms  
+### 🛡️ **Cybersecurity Tools**
 | Category | Tools |
 |---------|-------|
-| **OS / Distros** | Kali Linux, Parrot OS |
-| **Network Analysis** | Wireshark, Nmap |
-| **Web Testing** | Burp Suite, OWASP ZAP |
-| **Pentesting Frameworks** | Metasploit, Beef |
-| **Bruteforce / Password Tools** | Hydra, JohnTheRipper |
-| **Discovery & Scanners** | Gobuster, Dirbuster, Nikto |
-| **OSINT Tools** | Sherlock, TheHarvester |
-
-*(These represent tools I use for penetration testing and cyber assessments.)*
+| 🐧 Distros | Kali Linux, Parrot OS |
+| 🌐 Network | Wireshark, Nmap |
+| 🌍 Web Testing | Burp Suite, OWASP ZAP |
+| 💥 Frameworks | Metasploit, Beef |
+| 🔐 Password Tools | Hydra, JohnTheRipper |
+| 🕵️ Discovery | Gobuster, Dirbuster, Nikto |
+| 🌎 OSINT | Sherlock, TheHarvester |
 
 ---
 
-## 🔹 Currently Learning  
+## 📚 **Currently Learning**
 - Advanced Penetration Testing  
-- Networking & Protocol Deep Dive  
-- Linux & Windows Security  
-- Web Application Security  
-- CTF Skills (Web, OSINT, Forensics)  
-- Server-Side & API Security  
+- Red Teaming Basics  
+- API Security  
+- Linux/Windows Security  
+- CTF (Web, OSINT, Forensics)  
+- Server-Side Exploitation  
 
 ---
 
-## 🔹 Projects & Work  
-### **Cyber Squad 6351 (Current Collaboration)**  
-Working as a **Mentor**, **Teacher**, and **Project Manager**.  
-Helping build educational content, guiding students, and managing cyber-based projects.
+## 🧩 **Projects & Work**
+### 🚀 **Cyber Squad 6351**
+Role: **Mentor | Trainer | Project Manager**  
+Helping build educational content, managing cyber projects, and guiding students in cybersecurity.
 
 ---
 
-## 🔹 GitHub Analytics  
+## 📊 **GitHub Insights**
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hackwithishant01&show_icons=true&theme=tokyonight" height="160px" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hackwithishant01&theme=tokyonight" height="160px" />  
-<br>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackwithishant01&layout=compact&theme=tokyonight" height="120px" />
+<img src="https://github-readme-stats.vercel.app/api?username=hackwithishant01&show_icons=true&theme=react&hide_border=true" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hackwithishant01&theme=react&hide_border=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackwithishant01&layout=compact&theme=react&hide_border=true" height="130" />
 
 </div>
 
 ---
 
+## ✨ **Quote**
 <h3 align="center" style="font-weight:600; color:#00E7FF;">
-  “Keep learning. Keep breaking. Keep building.”
+⚡ “Keep learning. Keep breaking. Keep securing.” ⚡
 </h3>
+
