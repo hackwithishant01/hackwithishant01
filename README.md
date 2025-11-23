@@ -83,10 +83,10 @@ Helping build educational content, guiding students, and managing cyber-based pr
 ## 🔹 GitHub Analytics  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160px" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160px" />  
+<img src="https://github-readme-stats.vercel.app/api?username=hackwithishant01&show_icons=true&theme=tokyonight" height="160px" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hackwithishant01&theme=tokyonight" height="160px" />  
 <br>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="120px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackwithishant01&layout=compact&theme=tokyonight" height="120px" />
 
 </div>
 
