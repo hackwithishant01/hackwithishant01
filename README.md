@@ -43,7 +43,7 @@ I love working on:
 
 ## 🌐 **Connect With Me** 
 💻 portfolio for penetration testing: [ishant-penetration-tester-portfolio.netlify.app](ishant-penetration-tester-portfolio.netlify.app)  
-📩 <i class="fa fa-envelope" aria-hidden="true"></i>: hackwithishant@gmail.com
+<i class="fa fa-envelope" aria-hidden="true"></i>: hackwithishant@gmail.com
 📷 Instagram: [HackWithIshant](https://www.instagram.com/hackwithishant/)  
  linkdin 
 
