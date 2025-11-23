@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hola, I'm <span style="color:#00E7FF;">Ishant</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00E7FF;">Ishant</span></h1>
 <h3 align="center">🛡 Cybersecurity Enthusiast • Penetration Tester (in-making) • Full-Stack Developer</h3>
 
 <p align="center">
