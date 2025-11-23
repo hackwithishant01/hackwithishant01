@@ -41,11 +41,45 @@ I love working on:
 - Open-source Security Projects  
 
 
-## 🌐 **Connect With Me** 
-💻 portfolio for penetration testing: [ishant-penetration-tester-portfolio.netlify.app](ishant-penetration-tester-portfolio.netlify.app)  
-<i class="fa fa-envelope" aria-hidden="true"></i>: hackwithishant@gmail.com
-📷 Instagram: [HackWithIshant](https://www.instagram.com/hackwithishant/)  
- linkdin 
+## 🌐 **Connect With Me**
+
+<div align="left">
+
+### 🔗 **Professional & Portfolio**
+🌐 **Penetration Testing Portfolio:**  
+<a href="https://ishant-penetration-tester-portfolio.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-FF0000?style=for-the-badge&logo=security&logoColor=white" />
+</a>
+
+📩 **Email:**  
+<a href="mailto:hackwithishant@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20Mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+---
+
+### 🤝 **Social Media**
+<a href="https://www.instagram.com/hackwithishant/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+---
+
+### 🛡️ **GitHub Profile**
+<a href="https://github.com/YOUR-USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
 
 
 🎯 **Goal:** Mastering penetration testing & becoming one of India’s top cybersecurity professionals.
