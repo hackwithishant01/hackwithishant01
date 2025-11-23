@@ -52,7 +52,7 @@ I love working on:
 </a>
 
 📩 **Email:**  
-<a href="hackwithishant@gmail.com">
+<a href="mailto:hackwithishant@gmail.com">
   <img src="https://img.shields.io/badge/Send%20Mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
