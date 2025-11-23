@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <span style="color:#00E7FF;">Ishant</span></h1>
-<h3 align="center">🛡 Cybersecurity Enthusiast • Penetration Tester (in-making) • Full-Stack Developer</h3>
+<h3 align="center">🛡 Cybersecurity Enthusiast • Penetration Tester • Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300E7FF&size=23&center=true&vCenter=true&width=650&lines=Cybersecurity+Learner;Future+Penetration+Tester;Mentor+%7C+Trainer+%7C+Project+Manager;Full+Stack+Developer;Always+Learning+%26+Building;India's+Future+Cyber+Force+🚀">
