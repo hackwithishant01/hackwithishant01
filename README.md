@@ -52,7 +52,7 @@ I love working on:
 </a>
 
 📩 **Email:**  
-<a href="mailto:hackwithishant@gmail.com">
+<a href="hackwithishant@gmail.com">
   <img src="https://img.shields.io/badge/Send%20Mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -63,19 +63,12 @@ I love working on:
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/ishant-kumar-96b538326/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/" target="_blank">
+<a href="https://twitter.com/IshantKuma63" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
----
-
-### 🛡️ **GitHub Profile**
-<a href="https://github.com/YOUR-USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
