@@ -41,8 +41,11 @@ I love working on:
 - Open-source Security Projects  
 
 
-🌐 Connect With Me
-<div align="left"> <a href="https://x.com/ishantkuma63" target="_blank" style="margin-right: 15px;"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40"/> </a> <a href="https://www.linkedin.com/in/ishant-kumar-96b538326/" target="_blank" style="margin-right: 15px;"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/> </a> <a href="https://www.instagram.com/hackwithishant/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40"/> </a> </div>
+## 🌐 **Connect With Me** 
+💻 portfolio for penetration testing: [ishant-penetration-tester-portfolio.netlify.app](ishant-penetration-tester-portfolio.netlify.app)  
+📩 <i class="fa fa-envelope" aria-hidden="true"></i>: hackwithishant@gmail.com
+📷 Instagram: [HackWithIshant](https://www.instagram.com/hackwithishant/)  
+ linkdin 
 
 
 🎯 **Goal:** Mastering penetration testing & becoming one of India’s top cybersecurity professionals.
