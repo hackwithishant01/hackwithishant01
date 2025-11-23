@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 👨‍💻 All of my projects are available at [https://hackwithishant01.github.io/penetration-tester-protfolio/]
+- 👨‍💻 All of my projects are available at [https://ishant-penetration-tester-portfolio.netlify.app/]
 
 - 💬 Ask me about **HTML, CSS,JavaScript, React.js and Node.js**
 
