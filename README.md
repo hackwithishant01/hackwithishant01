@@ -1,16 +1,25 @@
-<h1 align="center">👋 Hi, I'm Ishant</h1>
+<h1 align="center">Hi, I'm Ishant</h1>
 <h3 align="center">Cybersecurity Enthusiast | Future Penetration Tester | Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300E7FF&size=24&center=true&vCenter=true&width=500&lines=Cybersecurity+Learner;Penetration+Testing+Enthusiast;Full+Stack+Developer;CTF+Participant;Always+Learning+New+Skills">
-</p>
+---
+
+## 🔹 Startup / Work  
+I am part of **Cyber Squad 6351**, a cybersecurity-focused startup/initiative.  
+There, I actively work as a:
+
+- **Mentor**  
+- **Teacher / Trainer**  
+- **Project Manager**
+
+My role includes guiding students, helping them understand cybersecurity concepts, and managing technical projects within the community.
 
 ---
 
 ## 🔹 About Me  
 I’m an aspiring cybersecurity professional focused on mastering penetration testing, strengthening my technical expertise, and contributing to a more secure digital future for India.
 
-I enjoy exploring:  
+I enjoy exploring:
+
 - Ethical Hacking & Security Fundamentals  
 - Computer Networks  
 - System & Web Application Security  
@@ -23,48 +32,59 @@ I enjoy exploring:
 
 ## 🔹 Skills & Technologies  
 
-### 🧠 Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🧠 Programming & Coding Languages  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+- **Node.js**  
+- **React.js**  
+- **SQL**  
+- **MySQL**  
+- **C**  
+- **C++**  
+- **Python**  
+- **Bash / Shell Scripting**
 
-### 🛡️ Cybersecurity Tools  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000?style=for-the-badge&logo=kalilinux&logoColor=blue)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-1ED760?style=for-the-badge&logo=parrotsec)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE5300?style=for-the-badge&logo=burpsuite)
-![Nmap](https://img.shields.io/badge/Nmap-3F51B5?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-000?style=for-the-badge&logo=metasploit)
+### 🛡️ Cybersecurity Tools & Platforms  
+- **Kali Linux**  
+- **Parrot OS**  
+- **Burp Suite**  
+- **Nmap**  
+- **Metasploit Framework**  
+- **Wireshark**  
+- **John the Ripper**  
+- **Hydra**  
+- **Gobuster / Dirbuster**  
+- **Nikto**  
+- **OWASP Testing Tools**  
 
-### 🌐 Web Development  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)
+(These represent the tools I use for penetration testing, networking analysis, and security assessments.)
 
 ---
 
 ## 🔹 Currently Learning  
-- Penetration Testing Methodologies  
-- Network Security  
-- SQL & Database Security  
-- Linux System Administration  
+- Mastering Penetration Testing Skills & Ethical Hacking  
+- Networking (Advanced Concepts)  
+- Linux & Windows Security  
 - Web Application Security  
-- CTF Skills (Web, OSINT, Forensics)
+- CTF Skills: Web, OSINT, Forensics  
+- Server-side & API Security  
+- Secure Coding Practices  
 
 ---
 
-## 🔹 Projects  
-### **CyberShield AI**  
-An AI-powered learning platform designed to support cybersecurity students with automated explanations, practice, and learning support.
+## 🔹 Projects & Work  
+### **Cyber Squad 6351 (Current Collaboration)**  
+I am currently working with Cyber Squad 6351 as:  
+- **Mentor**  
+- **Teacher**  
+- **Project Manager**  
 
-### **Cyber Squad 6351**  
-A student-driven initiative focused on cybersecurity awareness, education, and interactive learning events.
+My contribution includes mentoring students, managing cybersecurity training programs, and helping build awareness initiatives.
 
 ---
 
 ## 🔹 GitHub Analytics  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
@@ -79,13 +99,4 @@ A student-driven initiative focused on cybersecurity awareness, education, and i
 
 ---
 
-## 🔹 Connect With Me  
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-</p>
-
----
-
-<h3 align="center">"Keep learning. Keep breaking. Keep building."</h3>
-
+<h3 align="center">“Keep learning. Keep breaking. Keep building.”</h3>
