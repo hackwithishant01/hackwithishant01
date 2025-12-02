@@ -108,7 +108,7 @@ The CyberShield AI website provides (and will expand with):
 
 ---
 
-## 📫 Contact
+## 📫 Contact me
 - 📧 Email: hackwithishant@gmail.com
 - 🌐 Portfolio: https://ishant-penetration-tester-portfolio.netlify.app
 - 🔗 LinkedIn: https://www.linkedin.com/in/ishant-kumar01/
