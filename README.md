@@ -117,11 +117,6 @@ The CyberShield AI website provides (and will expand with):
 
 ---
 
-## 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hackwithishant01&show_icons=true&theme=react&hide_border=true" height="160" /> &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com?user=hackwithishant01&theme=react&hide_border=true" height="160" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackwithishant01&layout=compact&theme=react&hide_border=true" height="140" /> </p>
-
----
-
 ## ✨ Quote
 > **“Keep learning. Keep breaking. Keep securing.”**  
 > — Ishant
