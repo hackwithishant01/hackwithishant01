@@ -65,7 +65,7 @@ My Penetration testing portfolio:
 
 - Along with my personal penetration testing journey, I run a complete cybersecurity learning ecosystem for students.
 
-##⚡ CyberShield AI — My Cybersecurity E-Learning Platform
+⚡ CyberShield AI — My Cybersecurity E-Learning Platform
 
 - CyberShield AI is my practical e-learning initiative where students learn ethical hacking, penetration testing, bug bounty, and more — through a practical, beginner-friendly to advanced approach.
 
