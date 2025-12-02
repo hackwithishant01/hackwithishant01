@@ -49,7 +49,7 @@ My long-term vision: become a professional penetration tester & contribute to ad
 ---
 
 ## 🚀 Projects & Portfolio
-- **Penetration testing projects & write-ups:** _(link to portfolio)_  
+- **Penetration testing portfolio
   <a href="https://ishant-penetration-tester-portfolio.netlify.app" target="_blank">Visit my portfolio</a>
 
 ---
