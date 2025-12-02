@@ -3,7 +3,7 @@
 > Based in India • Always building, learning & sharing
 
 <p align="center">
-  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?color=%2300E7FF&size=23&center=true&vCenter=true&width=680&lines=Cybersecurity+Learner;Future+Penetration+Tester;Mentor+%7C+Trainer+%7C+Project+Manager;Full+Stack+Developer;Always+Learning+%26+Building;India's+Future+Cyber+Force+🚀" />
+  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?color=%2300E7FF&size=23&center=true&vCenter=true&width=680&lines=Cybersecurity+Learner;Future+Penetration+Tester;;Full+Stack+Developer;Always+Learning+%26+Building;India's+Future+Cyber+Force+🚀" />
 </p>
 
 ---
