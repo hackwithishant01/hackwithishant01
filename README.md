@@ -10,9 +10,10 @@
 
 ## 🔭 About Me
 I’m **Ishant** — a dedicated cybersecurity student on the path from beginner → expert in penetration testing.  
-Mera goal: become a professional pentester and serve India’s cyber defence — ethical, legal, and hands-on.
+My Goal: To become a professional penetration tester specializing in offensive security, red teaming, and real-world cyber defense.
 
 I focus on:
+- Currently following a structured roadmap to become a professional penetration tester
 - Real-world labs, CTFs & hackathons  
 - Web, API, Network & Active Directory security  
 - Offensive + defensive techniques (red team / blue team basics)  
@@ -26,7 +27,6 @@ I focus on:
 - **Frontend:** HTML, CSS, JavaScript, React.js  
 - **Backend:** Node.js  
 - **Databases:** SQL, MySQL  
-- **Languages:** Python, C, C++, C#, Ruby, Go, Bash, PowerShell  
 - **Dev tools:** Git, VS Code, Postman
 
 ### Cybersecurity & Tools
@@ -43,8 +43,7 @@ I focus on:
 ---
 
 ## 📚 Currently Learning (priority)
-- Advanced Penetration Testing (red team fundamentals)  
-- Active Directory attack & defense (BloodHound + AD labs)  
+- Advanced Penetration Testing (red team fundamentals)    
 - API Security (OWASP & modern API threats)  
 - Windows & Linux privilege escalation / kernel basics  
 - Server-side exploitation & binary basics  
