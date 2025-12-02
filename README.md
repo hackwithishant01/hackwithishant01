@@ -1,142 +1,101 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00E7FF;">Ishant</span></h1>
-<h3 align="center">🛡 Cybersecurity Enthusiast • Penetration Tester • Full-Stack Developer</h3>
+# 👋 Hi, I'm Ishant
+> *Cybersecurity learner → Future Professional Penetration Tester*  
+> Based in India • Always building, learning & sharing
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300E7FF&size=23&center=true&vCenter=true&width=650&lines=Cybersecurity+Learner;Future+Penetration+Tester;Mentor+%7C+Trainer+%7C+Project+Manager;Full+Stack+Developer;Always+Learning+%26+Building;India's+Future+Cyber+Force+🚀">
+  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?color=%2300E7FF&size=23&center=true&vCenter=true&width=680&lines=Cybersecurity+Learner;Future+Penetration+Tester;Mentor+%7C+Trainer+%7C+Project+Manager;Full+Stack+Developer;Always+Learning+%26+Building;India's+Future+Cyber+Force+🚀" />
 </p>
 
 ---
 
-<!-- BADGES -->
+## 🔭 About Me
+I’m **Ishant** — a dedicated cybersecurity student on the path from beginner → expert in penetration testing.  
+Mera goal: become a professional pentester and serve India’s cyber defence — ethical, legal, and hands-on.
+
+I focus on:
+- Real-world labs, CTFs & hackathons  
+- Web, API, Network & Active Directory security  
+- Offensive + defensive techniques (red team / blue team basics)  
+- Building projects and mentoring juniors
+
+---
+
+## 🧰 Skills & Tech Stack
+
+### Programming & Development
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Backend:** Node.js  
+- **Databases:** SQL, MySQL  
+- **Languages:** Python, C, C++, C#, Ruby, Go, Bash, PowerShell  
+- **Dev tools:** Git, VS Code, Postman
+
+### Cybersecurity & Tools
+- **Distros:** Kali Linux, Parrot OS  
+- **Network & Recon:** Nmap, Wireshark, tcpdump  
+- **Web pentesting:** Burp Suite, OWASP ZAP, sqlmap  
+- **Exploitation & Frameworks:** Metasploit, custom scripts, reverse-engineering basics  
+- **AD / Windows:** BloodHound, PowerShell techniques (labs)  
+- **Password & brute:** Hydra, John the Ripper  
+- **Discovery / Fuzzing:** Gobuster, Dirbuster, nikto  
+- **OSINT:** TheHarvester, Sherlock  
+- **Other:** Docker basics for lab environments
+
+---
+
+## 📚 Currently Learning (priority)
+- Advanced Penetration Testing (red team fundamentals)  
+- Active Directory attack & defense (BloodHound + AD labs)  
+- API Security (OWASP & modern API threats)  
+- Windows & Linux privilege escalation / kernel basics  
+- Server-side exploitation & binary basics  
+- CTF practice: Web, OSINT, Forensics
+
+---
+
+## 🚀 Projects & Portfolio
+- **Penetration testing projects & write-ups:** _(link to portfolio)_  
+  <a href="https://ishant-penetration-tester-portfolio.netlify.app" target="_blank">Visit my portfolio</a>
+
+- **Sample repos:** public scripts, lab writeups, vulnerable-app fixes, and CTF writeups (in-progress).
+
+---
+
+## 🎯 Goals & Focus
+- Short-term: complete structured labs (Beginner → Advanced) and publish 10+ lab writeups.  
+- Mid-term: strong AD & web pentesting skillset; compete in national-level CTFs.  
+- Long-term: professional pentester for national cyber defense units & mentor next-gen hackers.
+
+---
+
+## 🧩 How I Work / What I Offer
+- Hands-on lab writeups with step-by-step methodology.  
+- Beginner-to-advanced learning paths and curated reading lists.  
+- Mentorship for newcomers: basics → CTF readiness.  
+- Ethical bug-hunting and responsible disclosure mindset.
+
+---
+
+## 📫 Contact
+- 📧 Email: hackwithishant@gmail.com  
+- 🌐 Portfolio: https://ishant-penetration-tester-portfolio.netlify.app  
+- LinkedIn: https://www.linkedin.com/in/ishant-kumar-96b538326/  
+- Instagram: https://www.instagram.com/hackwithishant/  
+- Twitter: https://twitter.com/IshantKuma63
+
+---
+
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Expertise-00E7FF?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pentesting-Focused-blue?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-JS-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hackwithishant01&show_icons=true&theme=react&hide_border=true" height="160" alt="Ishant's GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hackwithishant01&theme=react&hide_border=true" height="160" alt="streaks" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackwithishant01&layout=compact&theme=react&hide_border=true" height="140" alt="top languages" />
 </p>
 
 ---
 
-## 🔥 **Startup / Work**
-🚀 I’m part of **Cyber Squad 6351**, a cybersecurity-driven community & startup initiative.  
-Here, I work as:
+## ✨ Quote
+> **“Keep learning. Keep breaking. Keep securing.”**  
+> — Ishant
 
-- 🧑‍🏫 **Mentor**  
-- 👨‍💻 **Cybersecurity Trainer**  
-- 🧩 **Project Manager**
-
-I guide students, design training content, and help build cyber projects that make learning fun & professional.
-
----
-
-## 👨‍💻 **About Me**
-I’m an aspiring cybersecurity expert preparing to become a **penetration tester** and contribute to India’s cyber defense.
-
-I love working on:
-
-- Ethical Hacking & Security  
-- Network & Web Security  
-- CTFs, Hackathons & Real-World Labs  
-- Programming & Full-Stack Development  
-- Open-source Security Projects  
-
-
-## 🌐 **Connect With Me**
-
-<div align="left">
-
-### 🔗 **Professional & Portfolio**
-🌐 **Penetration Testing Portfolio:**  
-<a href="https://ishant-penetration-tester-portfolio.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-FF0000?style=for-the-badge&logo=security&logoColor=white" />
-</a>
-
-📩 **Email:**  
-<a href="mailto:hackwithishant@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20Mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
----
-
-### 🤝 **Social Media**
-<a href="https://www.instagram.com/hackwithishant/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/ishant-kumar-96b538326/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://twitter.com/IshantKuma63" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-</div>
-
-
-
-🎯 **Goal:** Mastering penetration testing & becoming one of India’s top cybersecurity professionals.
-
----
-
-## ⚡ **Skills & Tech Stack**
-
-### 🧠 **Programming & Coding**
-| Category | Technologies |
-|---------|--------------|
-| 🎨 Frontend |HTML, CSS, JavaScript, React.js |
-| 🔧 Backend | Node.js |
-| 🛢 Database | SQL, MySQL |
-| 💻 Languages | C, C++, Python, Bash |
-| ⚙️ Tools | Git, VS Code, Postman |
-
----
-
-### 🛡️ **Cybersecurity Tools**
-| Category | Tools |
-|---------|-------|
-| 🐧 Distros | Kali Linux, Parrot OS |
-| 🌐 Network | Wireshark, Nmap |
-| 🌍 Web Testing | Burp Suite, OWASP ZAP |
-| 💥 Frameworks | Metasploit, Beef |
-| 🔐 Password Tools | Hydra, JohnTheRipper |
-| 🕵️ Discovery | Gobuster, Dirbuster, Nikto |
-| 🌎 OSINT | Sherlock, TheHarvester |
-
----
-
-## 📚 **Currently Learning**
-- Advanced Penetration Testing  
-- Red Teaming Basics  
-- API Security  
-- Linux/Windows Security  
-- CTF (Web, OSINT, Forensics)  
-- Server-Side Exploitation  
-
----
-
-## 🧩 **Projects & Work**
-### 🚀 **Cyber Squad 6351**
-Role: **Mentor | Trainer | Project Manager**  
-Helping build educational content, managing cyber projects, and guiding students in cybersecurity.
-
----
-
-## 📊 **GitHub Insights**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hackwithishant01&show_icons=true&theme=react&hide_border=true" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hackwithishant01&theme=react&hide_border=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackwithishant01&layout=compact&theme=react&hide_border=true" height="130" />
-
-</div>
-
----
-
-## ✨ **Quote**
-<h3 align="center" style="font-weight:600; color:#00E7FF;">
-⚡ “Keep learning. Keep breaking. Keep securing.” ⚡
-</h3>
