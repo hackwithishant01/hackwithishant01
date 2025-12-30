@@ -81,3 +81,60 @@ My approach is to first gain **deep technical expertise and industry exposure in
 - Industry-recognized security frameworks
 - Version control & documentation best practices
 
+## 🧑‍🏫 Experience & Community Work
+
+### 🔐 CyberSquadAcademy  
+**Mentor & Cybersecurity Trainer**
+**Focus Areas:** Ethical Hacking • Web Security • Linux • Cyber Awareness
+
+- Mentoring students in **ethical hacking and penetration testing fundamentals**
+- Conducting **hands-on labs** using legal, controlled environments
+- Teaching **real-world security concepts**, not just tool usage
+- Guiding on **career paths in cybersecurity**
+- Promoting **ethical responsibility and cybersecurity awareness**
+
+> This role strengthens my practical knowledge, communication skills, and leadership while contributing to the cybersecurity community.
+
+## 🤝 Collaboration & Opportunities
+
+I’m open to:
+- Cybersecurity research & learning collaborations
+- Ethical hacking practice projects (legal & educational)
+- Community teaching, mentoring, and awareness initiatives
+- Entry-level cybersecurity opportunities
+- Long-term alignment with national cybersecurity objectives 🇮🇳
+
+## 🌐 Connect & Reach Out
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/ishant-kumar01">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://twitter.com/IshantKuma63">
+    <img src="https://img.shields.io/badge/Twitter%20(X)-Cybersecurity%20Insights-000000?style=for-the-badge&logo=x">
+  </a>
+  <a href="https://instagram.com/hackwithishant">
+    <img src="https://img.shields.io/badge/Instagram-Cyber%20Awareness-E4405F?style=for-the-badge&logo=instagram">
+  </a>
+  <a href="mailto:your-hackwithishant@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Professional%20Contact-blue?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+## ⚠️ Ethical Disclaimer
+
+All content, projects, scripts, and demonstrations in this repository are intended **strictly for educational and ethical purposes**.
+
+❌ Unauthorized access or misuse of systems is illegal  
+✅ Always test only with **explicit permission**
+
+---
+
+<p align="center">
+  <strong>Built with discipline, ethics, and a long-term cybersecurity vision 🔐</strong><br>
+  Learning • Teaching • Securing • Growing
+</p>
+
+<p align="center">
+  © Ishant | Cybersecurity & Penetration Testing
+</p>
