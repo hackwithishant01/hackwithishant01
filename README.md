@@ -10,63 +10,77 @@ Aspiring Penetration Tester & Ethical Hacker | Cybersecurity Enthusiast 🇮🇳
   <img src="https://img.shields.io/badge/Linux-Kali%20%7C%20Parrot-black?style=for-the-badge&logo=linux">
 </p>
 
+---
+
 ## 🧠 About Me
 
 I’m **Ishant**, an aspiring **penetration tester and ethical hacker** with a strong focus on **real-world cybersecurity practices**, not just tool usage.
 
-I actively build hands-on experience through **legal labs, simulations, and controlled environments**, preparing myself for roles in both the **private cybersecurity industry** and, long-term, **government cyber & intelligence units** 🇮🇳.
+I actively build hands-on experience through **legal labs, simulations, and controlled environments**, preparing myself for opportunities in the **private cybersecurity sector**, while working toward a long-term goal of **serving India 🇮🇳 through government cyber & intelligence units**.
 
 My approach is to first gain **deep technical expertise and industry exposure in the private sector**, while steadily working toward contributing to **national cybersecurity and digital defense** initiatives.
+
+---
 
 ### 🧭 What I Believe In
 
 - 🔐 **Ethics before exploitation** — legality and responsibility come first  
 - 🧠 **Understanding systems, not just tools**  
-- 🧪 **Hands-on practice over theoretical learning**  
-- 📜 **Documentation & clarity over shortcuts**  
+- 🧪 **Hands-on practice over surface-level theory**  
+- 📜 **Clear documentation & reproducibility**   
 - 📈 **Long-term growth through discipline and consistency**  
-- 🤝 **Collaboration, knowledge sharing, and mentorship**
+-  🤝 **Knowledge sharing, mentoring, and collaboration**
+
+---
 
 ## 🛡️ Areas of Expertise
 ### 🔐 Cybersecurity & Penetration Testing
 
 - **Web Application Security**
   - OWASP Top 10 vulnerabilities (SQLi, XSS, IDOR, Auth issues, etc.)
-  - Manual testing methodology (recon → exploitation → validation)
-  - Secure coding & mitigation understanding
+  - Manual testing methodology: reconnaissance → enumeration → exploitation → validation
+  - Secure coding awareness and mitigation techniques
 
 - **Network Security & Traffic Analysis**
   - Network reconnaissance & enumeration
   - ARP-based attacks & MITM concepts (lab environments only)
-  - Packet inspection, traffic flow analysis, and anomaly detection
-  - Understanding switching, routing, and TCP/IP behavior
+  - Packet capture, traffic inspection, and protocol behavior analysis
+  - Strong understanding of TCP/IP, switching, and routing fundamentals
 
 - **Offensive & Defensive Techniques**
-  - Attack surface mapping
-  - Privilege escalation concepts (Linux-focused)
-  - Basic blue-team perspective (log analysis, detection basics)
+  - Attack surface mapping and threat modeling
+  - Linux privilege escalation concepts
+  - Basic blue-team perspective: logs, indicators, and detection fundamentals
 
 - **Social Engineering Awareness**
   - Phishing simulation & analysis (GoPhish – educational use)
-  - User awareness & defensive countermeasures
+  - User awareness, reporting mechanisms, and defensive countermeasures
 
 - **Linux Security**
   - Linux internals for security testing
-  - Permission models, processes, services, and hardening basics
+  - File permissions, processes, services, and hardening basics- Permission models, processes, services, and hardening basics
 
+---
+    
 ## 💻 Programming & Development
+
+### ✅ Actively Used / Working Knowledge
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,python,bash,mysql" />
 </p>
 
-- Used for automation, scripting, web testing, and tooling
-- Applied directly in labs, scripts, and security workflows
+- Used for automation, scripting, tooling, and web security testing
+- Applied directly in labs, demos, and security workflows
+
+### 📚 Currently Learning / Expanding
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,powershell,go,ruby" />
 </p>
 
-- Focused on understanding system-level behavior
-- Gradually integrating into security-focused use cases
+- Focused on system-level understanding and security-oriented use cases
+- Gradual integration into offensive and defensive security projects
+
+---
 
 ## 🧰 Tools & Platforms
 
@@ -77,32 +91,47 @@ My approach is to first gain **deep technical expertise and industry exposure in
   <img src="https://img.shields.io/badge/Git-GitHub%20Workflow-F05032?style=for-the-badge&logo=git">
 </p>
 
-- Security-focused Linux distributions
+- Security-focused Linux environments
 - Industry-recognized security frameworks
-- Version control & documentation best practices
+- Version control, documentation, and collaboration workflows
 
-## 🧑‍🏫 Experience & Community Work
+---
 
-### 🔐 CyberSquadAcademy  
-**Mentor & Cybersecurity Trainer**
-**Focus Areas:** Ethical Hacking • Web Security • Linux • Cyber Awareness
+## 📂 What You’ll Find Here
 
-- Mentoring students in **ethical hacking and penetration testing fundamentals**
-- Conducting **hands-on labs** using legal, controlled environments
-- Teaching **real-world security concepts**, not just tool usage
-- Guiding on **career paths in cybersecurity**
-- Promoting **ethical responsibility and cybersecurity awareness**
+- 🔍 Ethical hacking and penetration testing labs (legal & educational)
+- 🧪 Cybersecurity demonstrations and proof-of-concepts
+- 📘 Beginner-to-advanced security notes and explanations
+- ⚙️ Automation scripts and security tooling
+- 🎓 Student-friendly learning resources and guidance
 
-> This role strengthens my practical knowledge, communication skills, and leadership while contributing to the cybersecurity community.
+---
+
+## 💼 Professional Experience & Community Work
+
+### 🛡️ CyberSquadAcademy  
+**Role:** Mentor & Trainer — Penetration Testing  
+
+- Mentoring students in ethical hacking and penetration testing fundamentals
+- Conducting hands-on labs using controlled, legal environments
+- Teaching **security concepts, methodologies, and thinking**, not just tools
+- Guiding learners on **career paths in cybersecurity** (private & government)
+- Promoting ethical responsibility and cybersecurity awareness
+
+> This role strengthens my technical depth, communication skills, and leadership while contributing back to the cybersecurity community.
+
+---
 
 ## 🤝 Collaboration & Opportunities
 
 I’m open to:
-- Cybersecurity research & learning collaborations
-- Ethical hacking practice projects (legal & educational)
-- Community teaching, mentoring, and awareness initiatives
-- Entry-level cybersecurity opportunities
+- Ethical hacking and cybersecurity collaborations
+- Learning-driven security research and projects
+- Mentorship, training, and community initiatives
+- Entry-level opportunities in the private cybersecurity sector
 - Long-term alignment with national cybersecurity objectives 🇮🇳
+
+---
 
 ## 🌐 Connect & Reach Out
 
@@ -121,14 +150,18 @@ I’m open to:
   </a>
 </p>
 
+---
+
 ## ⚠️ Ethical Disclaimer
 
-All content, projects, scripts, and demonstrations in this repository are intended **strictly for educational and ethical purposes**.
+All projects, scripts, and demonstrations provided here are intended **strictly for educational and ethical purposes**.
 
-❌ Unauthorized access or misuse of systems is illegal  
-✅ Always test only with **explicit permission**
+❌ Unauthorized testing or misuse of systems is illegal  
+✅ Always perform security testing **only with explicit permission**
 
 ---
+
+## 🏁 Footer
 
 <p align="center">
   <strong>Built with discipline, ethics, and a long-term cybersecurity vision 🔐</strong><br>
