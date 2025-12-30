@@ -71,21 +71,55 @@ My approach: first achieve **deep technical expertise & industry exposure**, the
 
 ## 🌐 Portfolio
 
-Showcasing my **hands-on cybersecurity journey**, with **real-world ethical hacking & pentesting projects**.  
+My portfolio is currently under development and will soon showcase my **hands-on journey in cybersecurity**, including **ethical hacking, penetration testing, and real-world security labs**.  
 
-🔗 **Visit Portfolio:** [hackwithishant-portfolio](https://hackwithishant-portfolio.netlify.app/)
+I am actively building **projects, labs, and scripts** to demonstrate **technical depth, methodology, and professional impact**.
+
+🔗 **Visit Portfolio Website:**  
+👉 [hackwithishant-portfolio](https://hackwithishant-portfolio.netlify.app/)
+
+---
+
+### 🛡️ Featured Areas Coming Soon
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Security-OWASP%20Top10-red?style=for-the-badge&logo=owasp">
+  <img src="https://img.shields.io/badge/Network%20Security-Analysis-orange?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/Scripts-Automation-green?style=for-the-badge">
+</p>
+
+- Web Application Security Assessments  
+- Network Traffic Analysis & MITM experiments  
+- Automation Scripts & Tools  
+- Phishing Simulation Labs (educational)  
 
 ---
 
-### 🛡️ Featured Projects
-| Project | Description | Tech/Tools | Link |
-|---------|-------------|------------|------|
-| **Vulnerable Web App Lab** | OWASP Top 10 testing with legal environment | Kali, OWASP ZAP, Burp Suite | [Demo](https://hackwithishant-portfolio.netlify.app) |
-| **Network Traffic Analyzer** | MITM lab & traffic inspection | Wireshark, Scapy, Linux | [Repo](https://github.com/hackwithishant01) |
-| **Automation Scripts** | Security automation & exploitation scripts | Python, Bash, PowerShell | [Repo](https://github.com/hackwithishant01) |
-| **Phishing Simulation Lab** | GoPhish educational phishing simulation | GoPhish, Linux | [Guide](https://hackwithishant-portfolio.netlify.app) |
+### 🎓 Mentorship & Training
+<p align="center">
+  <img src="https://img.shields.io/badge/CyberSquadAcademy-Mentor-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-Trainer-blue?style=for-the-badge">
+</p>
+
+- Mentoring students in penetration testing fundamentals  
+- Conducting hands-on labs (legal & educational)  
+- Creating structured **training material & guides**  
+- Promoting ethical cybersecurity awareness  
 
 ---
+
+### 🔗 Quick Links
+- 🌐 **Portfolio Website:** [hackwithishant-portfolio](https://hackwithishant-portfolio.netlify.app/)  
+- 📘 **GitHub Projects & Labs:** [GitHub](https://github.com/hackwithishant01)  
+- 🧑‍🏫 **Mentorship / Training:** CyberSquadAcademy  
+
+<p align="center">
+  <a href="https://hackwithishant-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-Live%20Projects-blueviolet?style=for-the-badge&logo=google-chrome">
+  </a>
+</p>
+
+> 💡 **Tip:** As you build projects, add screenshots, labs, and scripts to create a visually impactful portfolio.
+
 
 ### 🔍 Hands-on Labs & Demos
 <p align="center">
