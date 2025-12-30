@@ -97,6 +97,24 @@ My approach is to first gain **deep technical expertise and industry exposure in
 
 ---
 
+🔗 **Portfolio Website:**  
+👉 (https://your-portfolio-link.site)](https://app.netlify.com/teams/hackwithishant/projects)
+
+### What You’ll Find in My Portfolio:
+- 🛡️ **Penetration Testing Projects** (legal lab walkthroughs, OWASP Top 10 assessments)  
+- 🔍 **Hands-on Cybersecurity Labs** (network, Linux security, traffic analysis)  
+- ⚙️ **Scripts & Automation** (Python, Bash, PowerShell)  
+- 📘 **Learning Notes & Documentation** (student-friendly)  
+- 🎓 **Mentorship & Community Work** (CyberSquadAcademy labs & training)
+
+<p align="center">
+  <a href="[https://app.netlify.com/teams/hackwithishant/projects">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Projects-blueviolet?style=for-the-badge&logo=google-chrome">
+  </a>
+</p>
+
+---
+
 ## 📂 What You’ll Find Here
 
 - 🔍 Ethical hacking and penetration testing labs (legal & educational)
