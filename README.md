@@ -151,7 +151,7 @@ I am actively building **projects, labs, and scripts** to demonstrate **technica
 
 - Mentoring & guiding students in ethical hacking fundamentals  
 - Hands-on lab supervision & structured teaching  
-- Career guidance for private & government cybersecurity roles  
+- Career guidance for cybersecurity roles  
 - Promoting ethical responsibility & awareness  
 
 ---
