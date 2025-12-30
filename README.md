@@ -94,33 +94,6 @@ I am actively building **projects, labs, and scripts** to demonstrate **technica
 
 ---
 
-### 🎓 Mentorship & Training
-<p align="center">
-  <img src="https://img.shields.io/badge/CyberSquadAcademy-Mentor-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-Trainer-blue?style=for-the-badge">
-</p>
-
-- Mentoring students in penetration testing fundamentals  
-- Conducting hands-on labs (legal & educational)  
-- Creating structured **training material & guides**  
-- Promoting ethical cybersecurity awareness  
-
----
-
-### 🔗 Quick Links
-- 🌐 **Portfolio Website:** [hackwithishant-portfolio](https://hackwithishant-portfolio.netlify.app/)  
-- 📘 **GitHub Projects & Labs:** [GitHub](https://github.com/hackwithishant01)  
-- 🧑‍🏫 **Mentorship / Training:** CyberSquadAcademy  
-
-<p align="center">
-  <a href="https://hackwithishant-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-Live%20Projects-blueviolet?style=for-the-badge&logo=google-chrome">
-  </a>
-</p>
-
-> 💡 **Tip:** As you build projects, add screenshots, labs, and scripts to create a visually impactful portfolio.
-
-
 ### 🔍 Hands-on Labs & Demos
 <p align="center">
   <img src="https://img.shields.io/badge/Linux%20Labs-Kali%20%7C%20Parrot-blue?style=for-the-badge">
@@ -157,6 +130,8 @@ I am actively building **projects, labs, and scripts** to demonstrate **technica
     <img src="https://img.shields.io/badge/Visit%20Portfolio-Live%20Projects-blueviolet?style=for-the-badge&logo=google-chrome">
   </a>
 </p>
+
+> 💡 **Tip:** As you build projects, add screenshots, labs, and scripts to create a visually impactful portfolio.
 
 ---
 
