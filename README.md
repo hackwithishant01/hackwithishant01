@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/Ethical%20Hacking-Responsible%20%26%20Legal-blue?style=for-the-badge&logo=hackthebox&logoColor=white">
   <img src="https://img.shields.io/badge/Cybersecurity-Offensive%20%7C%20Defensive-green?style=for-the-badge&logo=shield-halved&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-Kali%20%7C%20Parrot-black?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Zero%20Gap-Roadmap-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Roadmap-Long--Term%20Discipline-purple?style=for-the-badge&logo=target&logoColor=white">
+
 </p>
 
 ---
