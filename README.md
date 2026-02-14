@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Ethical%20Hacking-Responsible%20%26%20Legal-0066FF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117">
   <img src="https://img.shields.io/badge/Red%20Teaming-Adversary%20Emulation-DC143C?style=for-the-badge&logo=shield-halved&logoColor=white&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Discipline-Driven-Long--Term%20Roadmap-00FF9D?style=for-the-badge&logo=target&logoColor=black&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Long--Term%20Roadmap-Discipline%20Driven-00FF9D?style=for-the-badge&labelColor=0D1117">
   <img src="https://img.shields.io/badge/India%20Cyber%20Defense-Contributor%20in%20Training-FF6600?style=for-the-badge&logo=flag&logoColor=white&labelColor=0D1117">
 </p>
 
