@@ -154,18 +154,19 @@ Open to:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishant-kumar01">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://twitter.com/IshantKuma63">
-    <img src="https://img.shields.io/badge/X-Real-time%20Cyber%20Thoughts-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117">
+    <img src="https://img.shields.io/badge/X-Real--time%20Cyber%20Thoughts-000000?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://instagram.com/hackwithishant">
-    <img src="https://img.shields.io/badge/Instagram-Cyber%20Awareness-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117">
+    <img src="https://img.shields.io/badge/Instagram-Cyber%20Awareness-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:hackwithishant@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-4285F4?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
 
 ---
 
