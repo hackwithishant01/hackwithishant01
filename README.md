@@ -1,22 +1,40 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1200&color=00FF9D&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Ishant;Aspiring+Elite+Ethical+Hacker+%F0%9F%87%AE%F0%9F%87%B3;Future+Red+Team+Operator+%26+Cyber+Defender" alt="Typing SVG" />
+<<div align="center">
+  <h1>Hey, I'm Ishant</h1>
+  <h3>Future Elite Ethical Hacker • Red Team Operator in Training • India 🇮🇳</h3>
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ethical%20Hacking-Responsible%20%26%20Legal-blue?style=for-the-badge&logo=hackthebox&logoColor=white">
-  <img src="https://img.shields.io/badge/Cybersecurity-Offensive%20%7C%20Defensive-green?style=for-the-badge&logo=shield-halved&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-Kali%20%7C%20Parrot-black?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Zero%20Gap-Roadmap-orange?style=for-the-badge&logo=roadmap&logoColor=white">
+  <img src="https://img.shields.io/badge/Red%20Teaming-Adversary%20Emulation-red?style=for-the-badge&logo=shield-halved&logoColor=white">
+  <img src="https://img.shields.io/badge/Discipline-Driven-Multi--Year%20Roadmap-orange?style=for-the-badge&logo=roadmap&logoColor=white">
 </p>
 
 ---
 
 ## 🧠 About Me
-I'm **Ishant**, a disciplined cybersecurity learner from India pursuing a structured, multi-year roadmap to elite capability in ethical hacking, penetration testing, exploit engineering, and red team operations.
 
-My foundation rests on **deep system understanding** — not surface-level tooling. I train daily through legal labs, CTFs, vulnerability research, and technical documentation to prepare for protecting high-value assets and critical infrastructure.
+I'm **Ishant** — a cybersecurity learner from India on a deliberate, long-horizon journey to become an elite ethical hacker, penetration tester, exploit engineer, and red team operator.
 
-**Mission**: Acquire mastery → Apply it ethically and legally → Contribute meaningfully to India's national cyber defense ecosystem. 🇮🇳
+My foundation is built on **deep system-level understanding**, not shallow tool usage.  
+Every day I sharpen my edge through:
+
+- Controlled legal labs  
+- Competitive CTFs  
+- Vulnerability research  
+- Exploit development  
+- Rigorous technical write-ups  
+
+I’m not chasing quick wins. I’m forging operational capability to protect high-value targets and critical national infrastructure.
+
+**Mission**  
+Master the craft → Apply it with uncompromising ethics and legality → Help strengthen India’s sovereign cyber defense posture. 🇮🇳
+
+---
+
+<p align="center">
+  <strong>Deep understanding. Ruthless discipline. Zero shortcuts.</strong><br>
+  Preparing today — to defend tomorrow.
+</p>
 
 ---
 
