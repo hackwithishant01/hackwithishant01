@@ -1,173 +1,180 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1200&color=00FF9D&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Ishant;Aspiring+Elite+Ethical+Hacker+%F0%9F%87%AE%F0%9F%87%B3;Future+Red+Team+Operator+%26+Cyber+Defender" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&pause=1000&color=00FFA3&center=true&vCenter=true&width=780&height=90&lines=Hey%2C+I'm+Ishant;Future+Elite+Ethical+Hacker+%F0%9F%87%AE%F0%9F%87%B3;Red+Team+Operator+%7C+Exploit+Engineer;Securing+Critical+Systems+Tomorrow" alt="Ishant - Aspiring Elite Ethical Hacker" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-Responsible%20%26%20Legal-blue?style=for-the-badge&logo=hackthebox&logoColor=white">
-  <img src="https://img.shields.io/badge/Cybersecurity-Offensive%20%7C%20Defensive-green?style=for-the-badge&logo=shield-halved&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-Kali%20%7C%20Parrot-black?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Roadmap-Long--Term%20Discipline-purple?style=for-the-badge&logo=target&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-Responsible%20%26%20Legal-0066FF?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/Red%20Teaming-Adversary%20Simulation-DC143C?style=for-the-badge&logo=shield-halved&logoColor=white">
+  <img src="https://img.shields.io/badge/Discipline-Driven-Long--Term%20Roadmap-8A2BE2?style=for-the-badge&logo=target&logoColor=white">
+  <img src="https://img.shields.io/badge/India%20Cyber%20Defense-Contributor%20in%20Training-FF6600?style=for-the-badge&logo=flag&logoColor=white">
 </p>
 
 ---
 
 ## 🧠 About Me
-I'm **Ishant**, a disciplined cybersecurity learner from India pursuing a long-term, structured roadmap toward elite capability in **ethical hacking, penetration testing, exploit engineering, and red team operations**.
 
-My focus is on **deep system understanding**, not surface-level tooling.  
-I train daily using **legal labs, CTFs, vulnerability research, and technical documentation** to prepare for securing high-value systems and critical infrastructure.
+I'm **Ishant** — a focused cybersecurity practitioner from India on a structured, multi-year path to elite-level capability in:
 
-🎯 **Mission:**  
-**Master the craft → Apply it ethically → Contribute to India's cyber defense ecosystem 🇮🇳**
+- Ethical Hacking  
+- Penetration Testing  
+- Exploit Development  
+- Red Team Operations  
 
----
+No shortcuts. No hype.  
+Just deep technical understanding, daily deliberate practice, and unbreakable ethics.
 
-## 🧭 Core Principles
-- 🔐 **Ethics Above All** — Authorization is mandatory  
-- 🧠 **Systems Before Tools** — Internals first, automation later  
-- 🧪 **Practice-Driven Mastery** — Daily labs over passive learning  
-- 📜 **Reproducible Knowledge** — Clear writeups others can follow  
-- 📈 **Long-Term Discipline** — Compounding effort  
-- 🤝 **Responsible Sharing** — Teach & uplift the community  
+I train through **legal labs**, **competitive CTFs**, **vulnerability research**, **exploit engineering**, and **clean technical documentation** — preparing to protect high-value assets and critical national infrastructure.
+
+**Core Mission**  
+Master the craft → Apply it with precision and legality → Strengthen India's cyber resilience. 🇮🇳
 
 ---
 
-## 🛡️ Roadmap-Aligned Focus Areas
-- **Web & API Security** — OWASP Top 10, logic flaws, auth chains, Web3  
-- **Network & Infrastructure** — Recon, traffic forensics, MITM  
-- **Exploit Development** — Memory corruption, binary exploitation  
-- **Malware & Reverse Engineering** — Static & dynamic analysis  
-- **Red Teaming** — AD attacks, phishing, APT simulation  
-- **AI & LLM Security** — Prompt injection, model abuse, deepfakes  
-- **Cloud & Critical Infrastructure** — Zero Trust, OT/ICS basics  
+## 🧭 Guiding Principles
+
+- 🔐 **Ethics is the foundation** — explicit permission always required  
+- 🧠 **Systems over tools** — understand before you attack  
+- 🧪 **Practice builds mastery** — daily labs, not just theory  
+- 📜 **Document to teach** — clear, reproducible, valuable write-ups  
+- 📈 **Discipline compounds** — long-term focus wins  
+- 🤝 **Raise the bar** — mentor responsibly, share knowledge  
 
 ---
 
-## 💻 Technical Foundation
-### ✅ Core Stack
+## 🛡️ Focus Areas
+
+**Current & Near-Future Mastery Path**
+
+- **Web & API Security** — OWASP Top 10 · business logic · auth chains · API abuse  
+- **Network & Infrastructure** — advanced reconnaissance · traffic analysis · protocol exploitation  
+- **Exploit Engineering** — memory corruption · binary exploitation · custom PoCs  
+- **Malware & Reverse Engineering** — unpacking · behavioral analysis · anti-analysis evasion  
+- **Red Teaming** — AD attacks · phishing campaigns · living-off-the-land · APT emulation  
+- **AI / LLM Security** — prompt injection · model extraction · adversarial inputs  
+- **Cloud & Critical Infrastructure** — misconfiguration hunting · Zero Trust · OT/ICS fundamentals  
+
+---
+
+## 💻 Technical Arsenal
+
+### Daily Drivers
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,react,nodejs,mysql" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,react,nodejs,mysql&theme=dark" height="50"/>
 </p>
 
-### 📚 Advancing Languages
+### Languages I'm Leveling Up
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,powershell,cs,ruby" height="45"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,powershell,cs,ruby&theme=dark" height="50"/>
 </p>
 
-### 🧰 Tools & Environments
+### Primary Tools & Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-Offensive-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Parrot%20OS-Forensics-16A085?style=for-the-badge&logo=parrot&logoColor=white">
-  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Testing-red?style=for-the-badge&logo=burpsuite&logoColor=white">
-  <img src="https://img.shields.io/badge/Nmap%20%7C%20Wireshark-Network-orange?style=for-the-badge&logo=nmap&logoColor=white">
-  <img src="https://img.shields.io/badge/Git%20%7C%20GitHub-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali%20Linux-Offensive%20Platform-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Parrot%20OS-Security%20%26%20Forensics-16A085?style=for-the-badge&logo=parrot&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp%20Suite%20%7C%20ZAP-Web%20Proxy-DC143C?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap%20%7C%20Wireshark-Network%20Recon-FF8C00?style=for-the-badge&logo=nmap&logoColor=white">
+  <img src="https://img.shields.io/badge/Git%20%7C%20GitHub-Collaboration-181717?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 ---
 
-## 🌐 Portfolio & Learning Journey
-🔗 **https://hackwithishant-portfolio.netlify.app/**
-
-**What I showcase:**
-- Ethical web & API vulnerability research  
-- Exploit PoCs & controlled attack simulations  
-- Automation tools (recon, fuzzing, reporting)  
-- AI red teaming & deepfake analysis  
-- Step-by-step CTF and lab writeups  
+## 🌐 Portfolio – Real Work, Real Progress
 
 <p align="center">
   <a href="https://hackwithishant-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Explore%20Portfolio-Live%20Work-blueviolet?style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/Explore%20Portfolio-Live%20Labs%20%26%20Writeups-00C853?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0A0A0A">
   </a>
 </p>
 
----
+**What you'll find:**
 
-## 🎓 CyberSquad Academy
-
-**:contentReference[oaicite:0]{index=0}**  
-🌐 https://cybersquadacademy.in/
-
-I work as a **Penetration Tester, Mentor, and Trainer** at CyberSquad Academy, contributing to the development of future cybersecurity professionals through **structured, hands-on, and industry-aligned training**.
-
-My role focuses on bridging the gap between **theory and real-world security practice**, ensuring students learn:
-- How attacks actually work  
-- How to defend against them  
-- How to operate ethically and legally  
+- Ethical web & API vulnerability deep-dives  
+- Controlled exploit PoCs with full reproduction steps  
+- Custom automation tooling (recon, fuzzing, reporting)  
+- AI red-teaming labs & prompt injection research  
+- Detailed CTF solutions & lab walkthroughs with screenshots & mitigations  
 
 ---
 
-### 🛡️ Responsibilities
-- 🔍 Conduct training in **ethical hacking & penetration testing**
-- 🧪 Design and supervise **hands-on labs & CTF exercises**
-- 📘 Create **beginner → advanced learning paths**
-- 🧑‍🏫 Mentor students for **career growth & certifications**
-- 🔐 Enforce **ethical standards & legal testing**
-- 🧭 Teach real-world **attack & defense methodology**
+## 🎓 CyberSquad Academy – Building India's Cyber Future
+
+<p align="center">
+  <a href="https://cybersquadacademy.in/">
+    <img src="https://img.shields.io/badge/CyberSquad%20Academy-Training%20the%20Next%20Generation-0288D1?style=for-the-badge&logoColor=white">
+  </a>
+</p>
+
+**Role:** Penetration Testing Mentor | Hands-on Trainer | Curriculum Contributor
+
+I help aspiring professionals bridge the gap between theory and real-world operational capability through:
+
+- Realistic attack & defense labs  
+- Structured CTF & red-team exercises  
+- Progressive learning paths (beginner → advanced)  
+- One-on-one technical & career mentoring  
+- Strong emphasis on ethics, legality & responsible disclosure  
+
+**Our Goal**  
+Forge job-ready talent, ethical thinkers, and a stronger cyber workforce for India.
+
+> “We don’t teach tool-clicking.  
+> We build professionals who understand offense and defense.”
 
 ---
 
-### 🎯 Mission at CyberSquad Academy
-To build:
-- Job-ready cybersecurity talent  
-- Strong ethical hackers  
-- Security thinkers (not just tool users)  
-- A resilient cyber workforce for India 🇮🇳  
+## 📂 What’s Inside This GitHub
 
-> **“We don’t train button-clickers. We build security professionals.”**
-
----
-
-## 📂 GitHub Repository Overview
-- 🔍 Legal labs & walkthroughs  
-- 🧪 Ethical PoCs with mitigation  
-- 📘 Notes (beginner → advanced)  
-- ⚙️ Automation scripts  
-- 🎓 Student-friendly learning resources  
+- Legal pentest labs & detailed walkthroughs  
+- Ethical PoCs with clear mitigation guidance  
+- Technical notes — beginner to advanced  
+- Automation & tooling scripts  
+- Student-friendly roadmaps & resources  
 
 🔗 https://github.com/hackwithishant01
 
 ---
 
-## 🤝 Open to Opportunities
-- Ethical security research  
-- Open-source tooling  
-- Mentorship & teaching  
-- Entry-level pentesting roles  
-- National cybersecurity contribution  
+## 🤝 Let’s Collaborate
+
+Open to:  
+• Ethical security research & joint labs  
+• Open-source tooling contributions  
+• Mentorship & knowledge-sharing projects  
+• Entry-level pentesting / red team roles  
+• Opportunities aligned with national cyber defense goals  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ishant-kumar01">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://twitter.com/IshantKuma63">
-    <img src="https://img.shields.io/badge/X-Cyber%20Insights-000000?style=for-the-badge&logo=x&logoColor=white">
+    <img src="https://img.shields.io/badge/X-Real-time%20Cyber%20Thoughts-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
   <a href="https://instagram.com/hackwithishant">
     <img src="https://img.shields.io/badge/Instagram-Cyber%20Awareness-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:hackwithishant@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-4285F4?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-4285F4?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-## ⚠️ Ethical Commitment
-All content here is for **educational and authorized security testing only**.  
-❌ No illegal hacking  
-✅ Permission-based testing  
-✅ Responsible disclosure  
+## ⚠️ Ethical & Legal Commitment
+
+**All content is strictly for educational and authorized security testing purposes only.**  
+Unauthorized access, testing, or exploitation is illegal and never condoned.  
+Permission is mandatory. Responsible disclosure protects systems and people.
 
 ---
 
 <div align="center">
-  <strong>🔐 Discipline • Ethics • Mastery • National Resilience</strong><br><br>
-  Forging elite capability — one controlled breach at a time 🇮🇳
+  <strong>Discipline • Ethics • Depth • National Resilience</strong><br><br>
+  <em>Building elite capability — one controlled, documented, ethical step at a time.</em> 🇮🇳
 </div>
 
 <p align="center">
