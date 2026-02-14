@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00FFA3&center=true&vCenter=true&width=750&height=90&lines=Hey%2C+I'm+Ishant;Aspiring+Penetration+Tester+%26+Ethical+Hacker;Future+Red+Team+Specialist+%F0%9F%87%AE%F0%9F%87%B3" alt="Ishant - Ethical Hacker" />
-</div>
-
+  <h1 style="font-family: 'Segoe UI', 'Fira Code', monospace; font-weight: 900; font-size: 3.8rem; margin: 0.4rem 0; background: linear-gradient(90deg, #00FF9D, #00BFFF, #8A2BE2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: -1px;">
+    👋 Ishant
+  </h1>
+  
+  <h3 style="font-weight: 500; color: #e0e0e0; margin: 0.6rem 0; font-size: 1.5rem;">
+    Aspiring Elite Ethical Hacker • Penetration Tester • Future Red Team Operator 🇮🇳
+  </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ethical%20Hacking-Responsible%20%26%20Legal-0066FF?style=for-the-badge&logo=hackthebox&logoColor=white">
