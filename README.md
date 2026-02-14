@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&pause=1000&color=00FFA3&center=true&vCenter=true&width=780&height=90&lines=Hey%2C+I'm+Ishant;Future+Elite+Ethical+Hacker+%F0%9F%87%AE%F0%9F%87%B3;Red+Team+Operator+%7C+Exploit+Engineer;Securing+Critical+Systems+Tomorrow" alt="Ishant - Aspiring Elite Ethical Hacker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&pause=1000&color=00FFA3&center=true&vCenter=true&width=700&height=90&lines=Hey%2C+I'm+Ishant;Future+Elite+Ethical+Hacker+%F0%9F%87%AE%F0%9F%87%B3;Red+Team+Operator+%7C+Exploit+Engineer;Securing+Critical+Systems+Tomorrow" alt="Ishant - Aspiring Elite Ethical Hacker" />
 </div>
 
 <p align="center">
