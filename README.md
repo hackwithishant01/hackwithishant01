@@ -19,7 +19,7 @@ Building the future at the intersection of AI, cybersecurity & intelligent defen
 - 🇮🇳 Vision focused on strengthening future digital defense technologies
 
 ---
-```yaml
+
 ## ⚡ Current Focus
 Learning:
   - Linux & Networking
@@ -57,4 +57,4 @@ The future belongs to those who can defend intelligent systems.”
 “Cybersecurity is not just hacking.
 It is understanding systems, people, intelligence & the future.”
 
-<p align="center"> ⚡ Always Learning • Always Building • Always Evolving ⚡ </p> '''
+<p align="center"> ⚡ Always Learning • Always Building • Always Evolving ⚡ </p>
