@@ -55,21 +55,15 @@ Currently Learning:
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hackwithishant01&show_icons=true&theme=tokyonight"
-    height="180"
-  />
-</p>
+bro inme sa ak to aagya par ak nahi ara 
+## 📊 GitHub Analytics
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=hackwithishant01&theme=tokyonight"
-    height="180"
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=hackwithishant01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" 
   />
+
 </p>
 
 ---
