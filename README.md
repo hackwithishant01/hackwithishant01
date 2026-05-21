@@ -1,60 +1,91 @@
-<h1 align="center">Hey, I'm Ishant 👋</h1>
+<h1 align="center">⚡ Hey, I'm Ishant</h1>
 
 <h3 align="center">
-AI • Cybersecurity • Red Teaming • Threat Intelligence 🇮🇳
+AI Security • Cybersecurity • Red Teaming • Threat Intelligence 🇮🇳
 </h3>
 
 <p align="center">
-Building the future at the intersection of AI, cybersecurity & intelligent defense systems ⚡
+Building the future at the intersection of AI, cybersecurity & intelligent defense systems.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%C3%97+Cybersecurity+Explorer;Future+Red+Team+Operator;Threat+Intelligence+Learner;Building+Next-Gen+Cyber+Defense+Systems" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Class 10 Student & Cybersecurity Enthusiast
-- 🛡️ Exploring Ethical Hacking, Red Teaming & Threat Intelligence
-- 🤖 Interested in AI for Cybersecurity & Intelligent Defense Systems
-- 🧪 Learning by building projects, labs & research-driven workflows
-- 🇮🇳 Vision focused on strengthening future digital defense technologies
+```yaml
+Name: Ishant
+Username: hackwithishant01
+Role: Cybersecurity Enthusiast
+
+Focus:
+  - AI Security
+  - Ethical Hacking
+  - Red Teaming
+  - Threat Intelligence
+  - Future Cyber Defense
+
+Currently Learning:
+  - Linux & Networking
+  - Python Automation
+  - Web Security
+  - Offensive Security
+  - AI in Cybersecurity
+```
 
 ---
 
-## ⚡ Current Focus
-Learning:
-  - Linux & Networking
-  - Python & Automation
-  - Web Security
-  - AI Security
-  - Threat Intelligence
-  - Red Teaming Fundamentals
+## ⚡ Current Mission
 
-Building:
-  - Cybersecurity Projects
-  - AI-based Security Concepts
-  - Personal Research Labs
-  - Future Security Systems
+- 🛡️ Building cybersecurity skills with a future-focused mindset
+- 🤖 Exploring AI-powered security & intelligent defense systems
+- 🧪 Learning through projects, labs & practical research
+- 🌐 Growing in offensive & defensive cybersecurity
+- 🇮🇳 Working toward impactful cyber defense innovation
 
+---
 
-  🛠️ Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,html,css,js" /> </p>
+## 🛠️ Tech Stack
 
-🚀 Mission
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,html,css,js" />
+</p>
 
-“Technology without security is fragile.
-The future belongs to those who can defend intelligent systems.”
+---
 
-📌 Goals
-🔴 Become an advanced Red Team Operator
-🧠 Research AI Security & AI Threats
-⚔️ Learn Offensive & Defensive Security
-🌐 Contribute to cybersecurity awareness
-🇮🇳 Build impactful cyber defense projects for the future
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ishant Kumar&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishant Kumar&theme=tokyonight" /> </p>
-🌌 Quote
+## 📊 GitHub Analytics
 
-“Cybersecurity is not just hacking.
-It is understanding systems, people, intelligence & the future.”
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hackwithishant01&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center"> ⚡ Always Learning • Always Building • Always Evolving ⚡ </p>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hackwithishant01&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Future Goals
+
+```text
+[✓] Build Strong Cybersecurity Foundations
+[⟳] Master AI Security & Threat Intelligence
+[⟳] Develop Red Teaming Skills
+[⟳] Build Advanced Security Projects
+[⟳] Contribute to Cyber Awareness
+[⟳] Create Next-Generation Defense Systems
+```
+
+---
+
+## 🌌 Philosophy
+
+> "Cybersecurity is not just about hacking systems.  
+> It is about understanding intelligence, technology & the future."
+
+---
+
+<p align="center">
+  ⚡ Always Learning • Always Building • Always Evolving ⚡
+</p>
